@@ -1,0 +1,62 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\chris\Documents\Repos\Unity 4.6\BlockBreaker\smash-a-block_Data\Managed\System.dll (this message is harmless)
+Level_02
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 12.904109 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 2.791121 ms (FindLiveObjects: 0.071387 ms CreateObjectMapping: 0.026623 ms MarkObjects: 0.339381 ms  DeleteObjects: 0.655357 ms)
+
+Mouse button clicked, launch ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Trigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.568469 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 5.306934 ms (FindLiveObjects: 0.020479 ms CreateObjectMapping: 0.026916 ms MarkObjects: 0.360739 ms  DeleteObjects: 3.277665 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.576363 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 150.
+Total: 6.366331 ms (FindLiveObjects: 0.016969 ms CreateObjectMapping: 0.015798 ms MarkObjects: 0.274431 ms  DeleteObjects: 4.987739 ms)
+
+LevelManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
